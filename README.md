@@ -1,4 +1,6 @@
-# cantonese-writing 🇭🇰
+# gong2wa2 🇭🇰
+
+*cantonese-writing — the Hong Kong Cantonese skill for AI agents*
 
 **令你個 AI agent 覆客似香港人。**
 *Hong Kong Cantonese for customer-facing agents. MIT, commercial use OK.*
@@ -8,7 +10,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/aldoneai/cantonese-writing --skill cantonese-writing
+npx skills add https://github.com/aldoneai/gong2wa2 --skill cantonese-writing
 ```
 
 已測：Claude Code / OpenClaw agent framework + glm / Claude / GPT / DeepSeek 等 model。MIT license，skill 文字商業用途 OK。
