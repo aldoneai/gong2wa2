@@ -31,15 +31,6 @@ npx skills add [GITHUB-URL-待補] --skill cantonese-writing
 - 真人盲測：[待補：n≥20 香港人 A/B 盲測，勝率 ≥60% 先 launch — 進行中，結果即刻貼]
 - 已用於香港美容品牌 WhatsApp/IG 客服 production 環境 [待補：客戶書面同意]（內部版本，開源版由佢派生）
 
-## 你應該用邊個？
-
-| 你想要 | 用 |
-|---|---|
-| 連登體 / 創作粵文 | [tzengyuxio/written-cantonese](https://github.com/tzengyuxio/skills)（SKILL.md 標 PolyForm Noncommercial） |
-| 短片口播稿去 AI 味 | garrickbuilds/speak-human-hk |
-| 自己 host 粵語 model | [hon9kon9ize](https://github.com/hon9kon9ize) |
-| **商用 agent 覆客講港話** | **呢個** |
-
 ## 入面有乜
 
 - **88 行書面語→口語 lexicon**（您好→你好、我們→我哋、非常抱歉→真係唔好意思…）
