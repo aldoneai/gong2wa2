@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-npx skills add [GITHUB-URL-待補] --skill cantonese-writing
+npx skills add https://github.com/aldoneai/cantonese-writing --skill cantonese-writing
 ```
 
 已測：Claude Code / OpenClaw agent framework + glm / Claude / GPT / DeepSeek 等 model。MIT license，skill 文字商業用途 OK。
@@ -28,7 +28,7 @@ npx skills add [GITHUB-URL-待補] --skill cantonese-writing
 ## Evidence
 
 - LLM-judge 盲評（cross-family，評審唔評自己廠）：創作題 skill vs base — GPT-5.4 20:0、DeepSeek 26:4、Claude 15:5（raw data 隨 repo 附）。CS 自建題庫 18 題：skill + overlay 規則後全五項指標 clean 由 38/54 → 47/54（overlay 屬 experimental，仲有 7 題唔過，明細見 docs）
-- 真人盲測：[待補：n≥20 香港人 A/B 盲測，勝率 ≥60% 先 launch — 進行中，結果即刻貼]
+- 真人盲測：進行中（n≥20 香港人 A/B），結果出咗即刻喺本頁公佈
 - 已用於香港美容品牌 WhatsApp/IG 客服 production 環境 [待補：客戶書面同意]（內部版本，開源版由佢派生）
 
 ## 入面有乜
